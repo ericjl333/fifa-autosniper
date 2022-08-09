@@ -106,6 +106,5 @@ export const idAbBidFutBin = "elem_" + generateId(15);
 export const idAbDontMoveWon = "elem_" + generateId(15);
 export const idAbResumeAfterErrorOccured = "elem_" + generateId(15);
 
-export const idAbReportProblem = "elem_" + generateId(15);
 export const idAbCountDown = "elem_" + generateId(15);
 export const idAbDownloadStats = "elem_" + generateId(15);
